@@ -15,7 +15,7 @@ The dataset was extracted from IMDb using **Selenium & BeautifulSoup** and inclu
 ## 🚀 Getting Started  
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/SaiMadhaviLatha/IMDb-Web-Scraping.git
+   git clone https://github.com/SaiMadhaviLatha/IMDb-WebScraping-Analysis.git
    cd IMDb-Web-Scraping
    ```
 2. **Install dependencies**:  
